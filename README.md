@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Alexis Santa Ana</h1>
 <h3 align="center"><img src="https://media1.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952yzbm90tqswd3axzd1sg2xawydevos6nzr44imwhs&rid=giphy.gif&ct=s" width="30"> Frontend Developer from Argentina 🧑‍💻 </h3>
 
+
 ### I am a person passionate about programming and web development who always seeks to be learning new technologies and constantly improve. Currently looking for experience in  IT.
 
 
-<h3 align="left">👓 Languages and Tools:</h3>
+<h3 align="center">👓 Languages and Tools: 🧑‍💻 </h3>
 
-### 👓 Frontend:
  
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/) 
@@ -19,17 +19,19 @@
 [<img src="https://i.pinimg.com/originals/34/20/e5/3420e571b3d7a4a348d8fad91e3bfda4.png" width="48">](https://jquery.com/) 
 
 
-### ⚡Other cool tools:
+<h3 align="center">⚡Other cool tools:</h3>
+
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="48">](https://www.npmjs.com/)
 [<img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48">](https://yarnpkg.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFfFfWc1kVRvfJWuttlp1ZgF3BsYZEjUhag&usqp=CAU" width="48">](https://github.com/)
 [<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" width="48">](https://code.visualstudio.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html
+[<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
 
 
-<h3 align="left"><img src="https://c.tenor.com/arL-Och6Y7sAAAAS/connecting-loading.gif" width="30"> Connect with me:</h3>
+<h3 align="center"><img src="https://c.tenor.com/arL-Och6Y7sAAAAS/connecting-loading.gif" width="30"> Connect with me:</h3>
+
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-santa-ana-9176b622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexis-santa-ana-9176b622b/" height="30" width="40" /></a>
