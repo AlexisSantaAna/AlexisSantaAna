@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Alexis Santa Ana</h1>
-<h3 align="center">Frontend Developer from Argentina 🧑‍💻 🇦🇷</h3>
+<h3 align="center"><img src="https://media1.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952yzbm90tqswd3axzd1sg2xawydevos6nzr44imwhs&rid=giphy.gif&ct=s" width="30">Frontend Developer from Argentina 🧑‍💻 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
