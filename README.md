@@ -6,7 +6,7 @@
 <br><br>
 
 
-<h3 align="center">👓 Languages and Tools: 🧑‍💻 </h3>
+<h3 align="left">👓 Languages and Tools: 🧑‍💻 </h3>
 
  
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5) 
@@ -20,7 +20,7 @@
 <br><br>
 
 
-<h3 align="center">⚡Other cool tools:</h3>
+<h3 align="left">⚡Other cool tools:</h3>
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="48">](https://www.npmjs.com/)
@@ -31,7 +31,7 @@
 <br><br>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 
 <p align="left">
