@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Alexis Santa Ana</h1>
 <h3 align="center"><img src="https://media1.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952yzbm90tqswd3axzd1sg2xawydevos6nzr44imwhs&rid=giphy.gif&ct=s" width="30"> Frontend Developer from Argentina 🧑‍💻 </h3>
 
-### I am a person passionate about programming and web development who always seeks to be learning new technologies and constantly improve. Currently looking for experience in  IT 
+### I am a person passionate about programming and web development who always seeks to be learning new technologies and constantly improve. Currently looking for experience in  IT.
 
 
 <h3 align="left">👓 Languages and Tools:</h3>
@@ -21,7 +21,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFfFfWc1kVRvfJWuttlp1ZgF3BsYZEjUhag&usqp=CAU" width="48">](https://github.com/)
 [<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" width="48">](https://code.visualstudio.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html
+[<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
