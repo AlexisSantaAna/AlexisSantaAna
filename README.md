@@ -5,25 +5,32 @@
 
 
 <h3 align="left">👓 Languages and Tools:</h3>
-[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/)
+
+### 👓 Frontend:
+ 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://www.javascript.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://es.reactjs.org/)
 [<img src="https://user-images.githubusercontent.com/88951217/159796872-4f50285b-633b-486e-80ba-d8efc50389c8.png" width="48">](https://github.com/nfl/react-helmet)
-[<img src="https://i.stack.imgur.com/C9301.png" width="48">](https://getbootstrap.com/)
-[<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48">](https://tailwindcss.com/)
+[<img src="https://i.stack.imgur.com/C9301.png" width="48">](https://getbootstrap.com/) 
+[<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48">](https://tailwindcss.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
+[<img src="https://i.pinimg.com/originals/34/20/e5/3420e571b3d7a4a348d8fad91e3bfda4.png" width="48">](https://jquery.com/) 
 
 
 ### ⚡Other cool tools:
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="48">](https://www.npmjs.com/)
 [<img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48">](https://yarnpkg.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFfFfWc1kVRvfJWuttlp1ZgF3BsYZEjUhag&usqp=CAU" width="48">](https://github.com/)
 [<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" width="48">](https://code.visualstudio.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left"><img src="https://c.tenor.com/arL-Och6Y7sAAAAS/connecting-loading.gif" width="30"> Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-santa-ana-9176b622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexis-santa-ana-9176b622b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/alexis.santaana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alexis.santaana/" height="30" width="40" /></a>
