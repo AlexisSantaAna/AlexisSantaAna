@@ -6,6 +6,7 @@
 
 
 <h3 align="center">👓 Languages and Tools: 🧑‍💻 </h3>
+<br><br>
 
  
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5) 
@@ -20,7 +21,7 @@
 
 
 <h3 align="center">⚡Other cool tools:</h3>
-
+<br><br>
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="48">](https://www.npmjs.com/)
 [<img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48">](https://yarnpkg.com/)
@@ -30,8 +31,8 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
 
 
-<h3 align="center"><img src="https://c.tenor.com/arL-Och6Y7sAAAAS/connecting-loading.gif" width="30"> Connect with me:</h3>
-
+<h3 align="center">Connect with me:</h3>
+<br><br>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-santa-ana-9176b622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexis-santa-ana-9176b622b/" height="30" width="40" /></a>
