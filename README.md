@@ -14,6 +14,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://www.javascript.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="48">](https://es.reactjs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://reactnative.dev/)
+[<img src="https://www.svgrepo.com/show/353723/expo-icon.svg" width="48">](https://expo.dev/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="48">](https://redux.js.org/)
 [<img src="https://user-images.githubusercontent.com/88951217/159796872-4f50285b-633b-486e-80ba-d8efc50389c8.png" width="48">](https://github.com/nfl/react-helmet)
 [<img src="https://i.stack.imgur.com/C9301.png" width="48">](https://getbootstrap.com/)
