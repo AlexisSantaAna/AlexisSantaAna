@@ -23,6 +23,11 @@
 
 <br><br>
 
+<h3 align="left">🔧 Backend: 👨‍💻💻 </h3>
+[<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48">](https://nodejs.org/en/) 
+
+<br><br>
+
 
 <h3 align="left">⚡Other cool tools:</h3>
 
