@@ -20,14 +20,14 @@
 [<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48">](https://tailwindcss.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
 [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="48">](https://firebase.google.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="48">](https://www.sqlite.org/index.html)
 
 <br><br>
 
 <h3 align="left">🔧 Backend: 👨‍💻💻 </h3>
 
 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48">](https://nodejs.org/en/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48">](https://nodejs.org/en/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="48">](https://www.sqlite.org/index.html)
 
 <br><br>
 
